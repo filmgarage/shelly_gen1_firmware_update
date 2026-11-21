@@ -4,7 +4,7 @@ Guides for updating Shelly Gen1 devices (for example the Shelly Plug S, SHPLG-S)
 
 ## Guides
 
-- [Local firmware update manual](MANUAL_UPDATE.md): download the firmware, serve it from your own computer, and push it to the device. Includes the full firmware table with links for every Gen1 model.
+- [Local firmware update manual](LOCAL_UPDATE.md): download the firmware, serve it from your own computer, and push it to the device. Includes the full firmware table with links for every Gen1 model.
 - [Force update via browser](FORCED_UPDATE.md): point the device at the firmware on Shelly's servers with one URL in your browser. The device needs internet access.
 
 ## Quick start
