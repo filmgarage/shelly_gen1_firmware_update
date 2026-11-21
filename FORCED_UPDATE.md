@@ -43,4 +43,4 @@ Use this method when the Shelly reports no update, or when the Shelly app cannot
 
 All stable files are at `http://firmware.shelly.cloud/gen1/<filename>`. Beta files are at `http://firmware.shelly.cloud/gen1/rc/<filename>` for every model that has one, at version 1.14.1-rc1.
 
-For the full list of models and filenames, see the firmware table in `shelly-gen1-firmware-manual.md`.
+For the full list of models and filenames, see the firmware table in the manual for [local updates](LOCAL_UPDATE.md).
